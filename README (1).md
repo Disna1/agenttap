@@ -24,7 +24,7 @@ Debugging A2A agents today means guessing. You send a task, something fails, and
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-org/agenttap
+git clone https://github.com/Disna1/agenttap
 cd agenttap
 
 # 2. Create virtualenv and install dependencies
